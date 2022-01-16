@@ -1,7 +1,8 @@
 body {
   height: 100vh;
   margin: 0;
-  padding: 0px;
+  padding: 0;
+  background: blue;
 }
 
 .container { 
@@ -14,7 +15,8 @@ body {
 }
 
 .a, .b, .c, .d, .e, .f {
-  background-color: blue;
+  background-color: rgb(255, 255, 255);
+  border: solid coral;
 }
 
 .a, .b, .f {

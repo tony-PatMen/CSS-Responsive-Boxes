@@ -13,6 +13,8 @@ Take these designs and make them into a simple website!
 ### Media Query 1
 
 
+
+
 ![](./imgs/r1.png)
 
 ### Media Query 2
